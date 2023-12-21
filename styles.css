@@ -1,1 +1,12 @@
 /* your code */
+table{
+	border:solid 1px green;
+}
+thead{
+	color: skyblue;
+	background-color:gray
+}
+tbody{
+	background-color:pink;
+	color:yellowgreen;
+}
