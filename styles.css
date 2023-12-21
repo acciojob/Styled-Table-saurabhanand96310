@@ -1,5 +1,5 @@
 /* your code */
-table{
+table,th,td{
 	border:solid 1px green;
 }
 thead{
